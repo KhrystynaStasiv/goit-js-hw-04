@@ -1,6 +1,5 @@
 function calcAverageCalories(days) {
   let totalClories = 0;
-  let result = 0;
   if (days.length === 0) {
     return 0;
   }
